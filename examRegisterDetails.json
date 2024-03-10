@@ -1,0 +1,49 @@
+{
+  "examRegisterDetails": [
+    {
+      "firstName": "virat",
+      "lastName": "kholi",
+      "registerNo": "HFGGHR231",
+      "course": "Mechanical Engg",
+      "year": "Fourth",
+      "semester": "Seventh",
+      "id": 5
+    },
+    {
+      "firstName": "virat",
+      "lastName": "rahul",
+      "registerNo": "HGIRIR3833",
+      "course": "Civil Engg",
+      "year": "Fourth",
+      "semester": "Eighth",
+      "id": 6
+    },
+    {
+      "firstName": "Gotham",
+      "lastName": "Gambir",
+      "registerNo": "ME2023001",
+      "course": "Mechanical Engg",
+      "year": "Third",
+      "semester": "Fifth",
+      "id": 7
+    },
+    {
+      "firstName": "Darshan",
+      "lastName": "kholi",
+      "registerNo": "IHIUU2133",
+      "course": "Civil Engg",
+      "year": "Second",
+      "semester": "Second",
+      "id": 8
+    },
+    {
+      "firstName": "Darshan",
+      "lastName": "kholi",
+      "registerNo": "IHIUU2133",
+      "course": "Civil Engg",
+      "year": "Second",
+      "semester": "Second",
+      "id": 9
+    }
+  ]
+}

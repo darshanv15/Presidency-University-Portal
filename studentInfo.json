@@ -1,0 +1,25 @@
+{
+    "studentInfo":[
+        {
+            "_id":1,
+            "registerId":"1PAUC23321",
+            "studentName":"peter",
+            "fatherName":"peter Parker",
+            "collegeName":"Pes University"
+        },
+        {
+            "_id":2,
+            "registerId":"1PAUC23322",
+            "studentName":"John",
+            "fatherName":"peter John",
+            "collegeName":"Presidency Univeristy"
+        },
+        {
+            "_id":3,
+            "registerId":"1PAUC23323",
+            "studentName":"Brie Larson",
+            "fatherName":"peter Larson",
+            "collegeName":"Presidency Univeristy"
+        }
+    ]
+}

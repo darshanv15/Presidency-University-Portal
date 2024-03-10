@@ -1,0 +1,136 @@
+{
+  "resultData": [
+    {
+      "_id": 1,
+      "student_id": 1,
+      "registerId": "1PAUC23321",
+      "code": "CS001",
+      "subject": "Java",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "70",
+      "result": "PASS"
+    },
+    {
+      "_id": 2,
+      "student_id": 1,
+      "registerId": "1PAUC23321",
+      "code": "CS002",
+      "subject": "Python",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "90",
+      "result": "PASS"
+    },
+    {
+      "_id": 3,
+      "student_id": 1,
+      "registerId": "1PAUC23321",
+      "code": "CS003",
+      "subject": "C++",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "30",
+      "result": "FAIL"
+    },
+    {
+      "_id": 4,
+      "student_id": 1,
+      "registerId": "1PAUC23321",
+      "code": "CS004",
+      "subject": "Unix",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "90",
+      "result": "PASS"
+    },
+    {
+      "_id": 5,
+      "student_id": 2,
+      "registerId": "1PAUC23322",
+      "code": "ECE001",
+      "subject": "Electronics",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "70",
+      "result": "PASS"
+    },
+    {
+      "_id": 6,
+      "student_id": 2,
+      "registerId": "1PAUC23322",
+      "code": "ECE002",
+      "subject": "VLSI",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "70",
+      "result": "PASS"
+    },
+    {
+      "_id": 7,
+      "student_id": 2,
+      "registerId": "1PAUC23322",
+      "code": "ECE003",
+      "subject": "Logic Design",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "75",
+      "result": "PASS"
+    },
+    {
+      "_id": 8,
+      "student_id": 2,
+      "registerId": "1PAUC23322",
+      "code": "ECE004",
+      "subject": "Maths",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "64",
+      "result": "PASS"
+    },
+    {
+      "_id": 9,
+      "student_id": 3,
+      "registerId": "1PAUC23323",
+      "code": "EEE001",
+      "subject": "Analog",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "50",
+      "result": "PASS"
+    },
+    {
+      "_id": 10,
+      "student_id": 3,
+      "registerId": "1PAUC23323",
+      "code": "EEE002",
+      "subject": "Digital Electronics",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "40",
+      "result": "PASS"
+    },
+    {
+      "_id": 11,
+      "student_id": 3,
+      "registerId": "1PAUC23323",
+      "code": "EEE003",
+      "subject": "Transformer",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "45",
+      "result": "PASS"
+    },
+    {
+      "_id": 12,
+      "student_id": 3,
+      "registerId": "1PAUC23323",
+      "code": "EEE004",
+      "subject": "Circuit Design",
+      "max": "100",
+      "min": "35",
+      "obtained_marks": "56",
+      "result": "PASS"
+    }
+  ]
+}
